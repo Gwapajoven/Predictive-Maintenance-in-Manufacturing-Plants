@@ -2,7 +2,11 @@
 
 <!--
 **Gwapajoven/Gwapajoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This project focuses on the implementation, optimization, and visualization of advanced data structures and algorithms to address graph-related problems, specifically leveraging Min-Heaps and Prim’s Algorithm for efficient network design and analysis. The study begins by demonstrating the inefficiencies of brute-force approaches and then introduces Min-Heaps as a method for optimizing priority-based operations, significantly reducing time complexity in large datasets. By comparing the performance of brute-force and Min-Heap-based solutions, it quantitatively illustrates how efficient data structures can achieve substantial performance gains.
 
+The project also delves into the construction of Minimum Spanning Trees (MST) using Prim’s Algorithm, which is crucial in minimizing total edge weights in a network while maintaining connectivity across all nodes. Step-by-step visualizations highlight how Prim’s Algorithm iteratively selects edges, ensuring an optimal network configuration without cycles. Visual comparisons between the MST and the complete graph showcase how redundant connections are eliminated, demonstrating the practical benefits in terms of resource allocation and cost efficiency.
+
+The project concludes by presenting a comprehensive analysis of each algorithm’s efficiency in terms of time and space complexity, alongside clear graphical representations to enhance understanding. The results emphasize the importance of choosing appropriate data structures and algorithms for solving complex graph problems, providing valuable insights for applications in network optimization, communication systems, and infrastructure planning.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
